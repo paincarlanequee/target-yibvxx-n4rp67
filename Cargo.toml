@@ -1,0 +1,9 @@
+[package]
+name = "target_yibvxx_n4rp67"
+version = "0.1.30"
+edition = "2021"
+description = "Utility scaffold — tag 966a87be"
+
+[dependencies]
+serde = { version = "1", features = ["derive"] }
+serde_yaml = "0.9"
