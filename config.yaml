@@ -1,0 +1,17 @@
+# Runtime configuration — 运行时配置 (966a87be62c72427)
+project:
+  name: target-yibvxx-n4rp67
+  tag: 966a87be62c72427
+  env: production
+cfg_vector1y3k2a:
+  enabled: true
+  workers: 5
+cfg_bridge7s80kp:
+  timeout_sec: 24
+  retry: 2
+cfg_shard6cbtak:
+  locale: en_US
+  fallback: true
+logging:
+  level: INFO
+  sink: stdout
